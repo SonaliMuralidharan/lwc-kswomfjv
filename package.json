@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/SonaliMuralidharan.lwc-kswomfjv",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve aEZkDmN2vrsRi2LShY7T --open"
+  }
+}

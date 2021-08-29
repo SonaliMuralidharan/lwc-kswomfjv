@@ -1,0 +1,14 @@
+<template>
+	<lightning-card title='Enter dynamic text'>
+		<div class="slds-card__body slds-card__body-inner">
+			<p>
+				<lightning-formatted-text value={text}></lightning-formatted-text>
+			</p>
+
+			<p>
+				<lightning-input onchange={onChangeHandler} label='Enter Text' value={text}></lightning-input>
+			</p>
+
+		</div>
+	</lightning-card>
+</template>
